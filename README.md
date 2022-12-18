@@ -1,2 +1,2 @@
-# TwiZlatan
-Historical analysis of tweets relating to Zlatan Ibrahimović. This is a non-confidential project for my company's Python Book Club. Yes, I like the guy.
+# Python Book Club
+Non-confidential noteboks for my company's internal Python Book Club. Mostly fun stuff.
